@@ -1,0 +1,8 @@
+name: BlockTyper
+version: 0.1
+main:  com.blocktyper.Plugin
+commands:
+  superpower:
+    description: makes you like totally awesome brah!!!
+  sp:
+    description: makes you like totally awesome brah!!!
